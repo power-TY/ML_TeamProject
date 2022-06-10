@@ -25,11 +25,11 @@
 내용추가 예정.
 
 # 데이터 불균형 문제 해결 방식
-1. UnderSampling : 다수 클래스에서 샘플링을 통해 관측치를 지워 불균형 문제를 해결하는 방식
+1. UnderSampling : 다수 클래스에서 샘플링을 통해 관측치를 지워 불균형 문제를 해결하는 방식\
    종류 : CNN[3], Tomek Links[4], ENN[5], RENN[6], ALLKNN[6], OSS[7], NCR[8], NearMiss-1, 2, 3[9]
-2. OverSampling : 소수 클래스에서 데이터를 복제 및 추가하는 방식
+2. OverSampling : 소수 클래스에서 데이터를 복제 및 추가하는 방식\
    종류 : SMOTE[10], BorderlineSMOTE[11], ADASYN[12]
-3. Combining Over-and Under-Sampling : 오버샘플링과 언더샘플링 방식을 결합한 방식
+3. Combining Over-and Under-Sampling : 오버샘플링과 언더샘플링 방식을 결합한 방식\
    종류 : SMOTE+Tomek[13], SMOTE+ENN[14]
 4. Cost-Senstive Learning : 클래스를 오분류하는 비용에 따라서 가중치를 두는 학습 방식
 
