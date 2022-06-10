@@ -22,7 +22,7 @@
 
 # 프로젝트 선정 이유
 내용추가 예정.\
-내용추가 예정.\
+내용추가 예정.
 
 # 데이터 불균형 문제 해결 방식
 1. UnderSampling : 다수 클래스에서 샘플링을 통해 관측치를 지워 불균형 문제를 해결하는 방식
@@ -34,7 +34,7 @@
 4. Cost-Senstive Learning : 클래스를 오분류하는 비용에 따라서 가중치를 두는 학습 방식
 
 # 이용한 데이터 불균형 방식
-OverSampling : SMOTE, BorderlineSMOTE, ADASYN
+OverSampling : SMOTE, BorderlineSMOTE, ADASYN\
 CombineSampling : SMOTE+ENN
 Cost-Sensitive Learning
 언더 샘플링의 경우 결과가 너무 좋지 않아 이용하지 않음.
