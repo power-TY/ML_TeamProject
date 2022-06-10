@@ -10,7 +10,7 @@
 
 1. EDA : https://nbviewer.org/github/power-TY/ML_TeamProject/blob/main/EDA.ipynb
 
-2. Data_Imbalancee_Handling : https://nbviewer.org/github/power-TY/ML_TeamProject/blob/main/Data_Imabalance_Handling.ipynb
+2. Data_Imbalancee_Handling_all : https://nbviewer.org/github/power-TY/ML_TeamProject/blob/main/Data_Imabalance_Handling.ipynb
 
 3. TargetEncoding_Sampling_Logistic_XAI : https://nbviewer.org/github/power-TY/ML_TeamProject/blob/main/TargetEncoding_Sampling_Logistic_XAI.ipynb
 
