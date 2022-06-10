@@ -11,4 +11,5 @@
 
 3. TargetEncoding_Sampling_Logistic_XAI : https://nbviewer.org/github/power-TY/ML_TeamProject/blob/main/TargetEncoding_Sampling_Logistic_XAI.ipynb#%EB%AA%A8%EB%8D%B8-%EC%A0%81%EC%9A%A9
 
-4. 
+4. OneHotEncoding_Sampling_Logistic_XAI.ipynb : https://nbviewer.org/github/power-TY/ML_TeamProject/blob/main/OneHotEncoding_Sampling_Logistic_XAI.ipynb
+5. 
