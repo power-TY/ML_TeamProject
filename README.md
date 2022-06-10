@@ -36,7 +36,7 @@
 # 이용한 데이터 불균형 방식
 OverSampling : SMOTE, BorderlineSMOTE, ADASYN\
 CombineSampling : SMOTE+ENN
-Cost-Sensitive Learning
+Cost-Sensitive Learning\
 언더 샘플링의 경우 결과가 너무 좋지 않아 이용하지 않음.
 
 # 참고자료
