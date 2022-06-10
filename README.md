@@ -51,4 +51,4 @@ Cost-Sensitive Learning\
 [11] Han, Hui, Wen-Yuan Wang, and Bing-Huan Mao. "Borderline-SMOTE: a new over-sampling method in imbalanced data sets learning." International conference on intelligent computing. Springer, Berlin, Heidelberg, 2005.\
 [12] H. He, Y. Bai, E. A. Garcia, and S. Li, “ADASYN: Adaptive synthetic sampling approach for imbalanced learning,” Proc. IEEE International Joint Conference on Neural Networks, pp.1322-1328, 2008.\
 [13] Batista, Gustavo EAPA, Ana LC Bazzan, and Maria Carolina Monard, “Balancing Training Data for Automated Annotation of Keywords: a Case Study,” Proc. Workshop on Bioinformatics, 2003.\
-[14] Batista, Gustavo EAPA, Ronaldo C. Prati and Maria Carolina Monard, “A study of the behavior of several methods for balancing machine learning training data,” SIGKDD Explorations, Vol.6, No.1, pp.20-29, 2004.\
+[14] Batista, Gustavo EAPA, Ronaldo C. Prati and Maria Carolina Monard, “A study of the behavior of several methods for balancing machine learning training data,” SIGKDD Explorations, Vol.6, No.1, pp.20-29, 2004.
