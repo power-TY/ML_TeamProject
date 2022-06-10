@@ -47,6 +47,8 @@ Cost-Sensitive Learning\
 언더 샘플링의 경우 결과가 너무 좋지 않아 이용하지 않음.
 
 # 참고자료
+[1] 메디소비자뉴스 : 암ㆍ심장병ㆍ폐렴 '3대 사망원인'… 전체 사망률 45% 차지, http://www.medisobizanews.com/news/articleView.html?idxno=62649 \
+[2] 데이터 직속 4차산업혁명 위원회, [인포그래픽] 마이데이터, 내 데이터 내 뜻대로 https://www.4th-ir.go.kr/article/detail/1384?boardName=internalData&category=normal
 [3] Kubat, Miroslav, and Stan Matwin, “Addressing the curse of imbalanced training sets: one-sided selection,” Proc. International Conference on Machine Learning, Vol.97, pp.179-186, 1997.\
 [4] I. Tomek, “Two Modifications of CNN,” IEEE Transactions on Systems, Man and Cybernetics, Vol.6, No.11, pp.769-772,1976.\
 [5] Dennis L. Wilson, “Asymptotic properties of nearest neighbor rules using edited data,” IEEE Transactions on Systems, Man, and Cybernetics, Vol.3, pp.408-421, 1972.\
