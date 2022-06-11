@@ -9,16 +9,14 @@
 
 
 1. EDA : https://nbviewer.org/github/power-TY/ML_TeamProject/blob/main/EDA.ipynb
-
 2. Data_Imbalancee_Handling_all : https://nbviewer.org/github/power-TY/ML_TeamProject/blob/main/Data_Imbalance_Handling_all.ipynb
-
-3. TargetEncoding_Sampling_Logistic_XAI : https://nbviewer.org/github/power-TY/ML_TeamProject/blob/main/TargetEncoding_Sampling_Logistic_XAI.ipynb
-
-4. BinaryEncoding_Sampling_Logistic_XAI.ipynb : https://nbviewer.org/github/power-TY/ML_TeamProject/blob/main/BinaryEncoding_sampling_Logistic_XAI.ipynb
-
-5. OneHotEncoding_Sampling_Logistic_XAI.ipynb : https://nbviewer.org/github/power-TY/ML_TeamProject/blob/main/OneHotEncoding_Sampling_Logistic_XAI.ipynb
-
-6. 
+3. TargetEncoding_sampling_Logistic_XAI : https://nbviewer.org/github/power-TY/ML_TeamProject/blob/main/TargetEncoding_Sampling_Logistic_XAI.ipynb
+4. TargetEncoding_sampling_LGBM_XAI : https://nbviewer.org/github/power-TY/ML_TeamProject/blob/main/TargetEncoding_sampling_LGBM_XAI.ipynb
+5. 
+6. BinaryEncoding_sampling_Logistic_XAI : https://nbviewer.org/github/power-TY/ML_TeamProject/blob/main/BinaryEncoding_sampling_Logistic_XAI.ipynb
+7. BinaryEncoding_sampling_LGBM_XAI : https://nbviewer.org/github/power-TY/ML_TeamProject/blob/main/BinaryEncoding_sampling_LGBM_XAI.ipynb
+8. OneHotEncoding_sampling_Logistic_XAI : https://nbviewer.org/github/power-TY/ML_TeamProject/blob/main/OneHotEncoding_Sampling_Logistic_XAI.ipynb
+9. OneHotEncoding_sampling_LGBM_XAI : https://nbviewer.org/github/power-TY/ML_TeamProject/blob/main/OneHotEncoding_sampling_LGBM_XAI.ipynb
 
 # 프로젝트 선정 이유
 ![image](https://user-images.githubusercontent.com/71917549/173069672-41a0a46b-98c6-4396-a8af-1c7585cc9164.png)
