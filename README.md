@@ -29,7 +29,7 @@
 이는 국민 건강을 점검하는 공익성은 물론 기업 측면에서는 비즈니스적으로도 가치가 있음.
 
 
-# 데이터 불균형 문제 해결 방식
+# 불균형 문제 해결 방식
 해당 데이터는 심장병 여부의 비율이 약 9:1로 매우 불균형된 데이터임. \
 불균형은 모델의 과적합을 불러올 수 있기 때문에 반드시 해결해야 함.
 
@@ -41,7 +41,7 @@
    종류 : SMOTE+Tomek[13], SMOTE+ENN[14]
 4. Cost-Senstive Learning : 클래스를 오분류하는 비용에 따라서 가중치를 두는 학습 방식
 
-# 이용한 데이터 불균형 방식
+# 이용한 불균형 해소 방식
 OverSampling : SMOTE, BorderlineSMOTE, SVMSMOTE, ADASYN\
 CombineSampling : SMOTE+ENN\
 Cost-Sensitive Learning\
