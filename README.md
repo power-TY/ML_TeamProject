@@ -49,6 +49,9 @@ CombineSampling : SMOTE+ENN\
 Cost-Sensitive Learning\
 언더 샘플링의 경우 결과가 너무 좋지 않아 이용하지 않음.
 
+# 결과 벤치마크
+https://docs.google.com/spreadsheets/d/1jq8L_ySudcM8yrhzwGx6P1bGaCAcfOnJFQNHz1Ax3qw/edit#gid=849455816
+
 # 참고자료
 [1] 메디소비자뉴스 : 암ㆍ심장병ㆍ폐렴 '3대 사망원인'… 전체 사망률 45% 차지, http://www.medisobizanews.com/news/articleView.html?idxno=62649 \
 [2] 대통령 직속 4차산업혁명 위원회, [인포그래픽] 마이데이터, 내 데이터 내 뜻대로 https://www.4th-ir.go.kr/article/detail/1384?boardName=internalData&category=normal \
