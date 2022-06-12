@@ -42,7 +42,7 @@
 1. OneHot_Logistic_XAI : https://nbviewer.org/github/power-TY/ML_TeamProject/blob/main/OneHotEncoding/OneHot_Logistic_XAI.ipynb
 2. OneHot_SVM : https://nbviewer.org/github/power-TY/ML_TeamProject/blob/main/OneHotEncoding/OneHot_SVM.ipynb
 3. OneHot_RandomForest_XAI : https://nbviewer.org/github/power-TY/ML_TeamProject/blob/main/OneHotEncoding/OneHot_RandomForest_XAI.ipynb
-4. OneHot_XGBoost : https://nbviewer.org/github/power-TY/ML_TeamProject/blob/main/OneHotEncoding/OneHot_XGBoost.ipynb
+4. OneHot_XGBoost_XAI : https://nbviewer.org/github/power-TY/ML_TeamProject/blob/main/OneHotEncoding/OneHot_XGBoost_XAI.ipynb
 5. OneHot_LGBM_XAI : https://nbviewer.org/github/power-TY/ML_TeamProject/blob/main/OneHotEncoding/OneHot_LGBM_XAI.ipynb
 
 
