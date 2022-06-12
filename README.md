@@ -16,29 +16,32 @@
 4. EDA4 : https://nbviewer.org/github/power-TY/ML_TeamProject/blob/main/EDA4.ipynb
 5. EDA5 : https://nbviewer.org/github/power-TY/ML_TeamProject/blob/main/EDA5.ipynb
 
-**각 샘플링 효과 테스트**
+**모든 샘플링 효과 테스트**
 1. Data_Imbalancee_Handling_all : https://nbviewer.org/github/power-TY/ML_TeamProject/blob/main/Data_Imbalance_Handling_all.ipynb
+
+**이상치 처리**
+1. Outlier_Handling : https://nbviewer.org/github/power-TY/ML_TeamProject/blob/main/Outlier_Handling.ipynb
 
 **각 인코딩 별 모델 비교**\
 **Target Encoding**
 1. Target_Logistic_XAI : https://nbviewer.org/github/power-TY/ML_TeamProject/blob/main/TargetEncoding/Target_Logistic_XAI.ipynb
 2. Target_SVM : https://nbviewer.org/github/power-TY/ML_TeamProject/blob/main/TargetEncoding/Target_SVM.ipynb
 3. Target_SVM_XAI : https://nbviewer.org/github/power-TY/ML_TeamProject/blob/main/TargetEncoding/Target_SVM_XAI.ipynb
-4. Target_RandomForest_XAI : 
+4. Target_RandomForest_XAI : https://nbviewer.org/github/power-TY/ML_TeamProject/blob/main/TargetEncoding/Target_RandomForest_XAI.ipynb
 5. Target_XGBoost_XAI : https://nbviewer.org/github/power-TY/ML_TeamProject/blob/main/TargetEncoding/Target_XGBoost_XAI.ipynb
 6. Target_LGBM_XAI : https://nbviewer.org/github/power-TY/ML_TeamProject/blob/main/TargetEncoding/Target_LGBM_XAI.ipynb
 
 **Binary Encoding**
 1. Binary_Logistic_XAI : https://nbviewer.org/github/power-TY/ML_TeamProject/blob/main/BinaryEncoding/Binary_Logistic_XAI.ipynb
 2. Binary_SVM : https://nbviewer.org/github/power-TY/ML_TeamProject/blob/main/BinaryEncoding/Binary_SVM.ipynb
-3. Binary_RandomForest_XAI :
+3. Binary_RandomForest_XAI : https://nbviewer.org/github/power-TY/ML_TeamProject/blob/main/BinaryEncoding/Binary_RandomForest_XAI.ipynb
 4. Binary_XGBoost_XAI : https://nbviewer.org/github/power-TY/ML_TeamProject/blob/main/BinaryEncoding/Binary_XGBoost_XAI.ipynb
 5. Binary_LGBM_XAI : https://nbviewer.org/github/power-TY/ML_TeamProject/blob/main/BinaryEncoding/Binary_LGBM_XAI.ipynb
 
 **OneHot Encoding**
 1. OneHot_Logistic_XAI : https://nbviewer.org/github/power-TY/ML_TeamProject/blob/main/OneHotEncoding/OneHot_Logistic_XAI.ipynb
 2. OneHot_SVM : https://nbviewer.org/github/power-TY/ML_TeamProject/blob/main/OneHotEncoding/OneHot_SVM.ipynb
-3. OneHot_RandomForest_XAI :
+3. OneHot_RandomForest_XAI : https://nbviewer.org/github/power-TY/ML_TeamProject/blob/main/OneHotEncoding/OneHot_RandomForest_XAI.ipynb
 4. OneHot_XGBoost : https://nbviewer.org/github/power-TY/ML_TeamProject/blob/main/OneHotEncoding/OneHot_XGBoost.ipynb
 5. OneHot_LGBM_XAI : https://nbviewer.org/github/power-TY/ML_TeamProject/blob/main/OneHotEncoding/OneHot_LGBM_XAI.ipynb
 
