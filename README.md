@@ -7,7 +7,7 @@
 # 코드가 보이지 않을 경우
 용량 문제로 일부 파일이 깃허브에서 로드가 되지 않습니다.\
 보이지 않을 경우 아래 링크들을 참고해 주세요.\
-아래 링크로도 보이지 않을 경우 https://nbviewer.org/ 에 접속하셔셔 각 코드의 링크를 직접 넣어주거나 https://drive.google.com/file/d/1fBX0IklC6laRrqCCTJhPS4V3dnPA3kS3/view?usp=sharing 에서 전체 파일 다운로드 부탁드립니다.
+아래 링크로도 보이지 않을 경우 https://nbviewer.org/ 에 접속하셔셔 각 코드의 링크를 직접 넣어주거나https://drive.google.com/file/d/1TSW5X3D-QsMhEHzzSDvCL6A3G1-o1NSX/view?usp=sharing 에서 전체 파일 다운로드 부탁드립니다.
 
 **EDA**
 1. EDA(AutoEDA) : https://nbviewer.org/github/power-TY/ML_TeamProject/blob/main/EDA.ipynb
