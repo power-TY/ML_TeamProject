@@ -7,31 +7,31 @@
 보이지 않을 경우 아래 링크들을 참고해 주세요.\
 아래 링크로도 보이지 않을 경우 https://nbviewer.org/ 에 접속하셔셔 각 코드의 링크를 직접 넣어주기길 바랍니다.
 
-EDA
+##EDA
 1. EDA : https://nbviewer.org/github/power-TY/ML_TeamProject/blob/main/EDA.ipynb
 2. EDA2 : https://nbviewer.org/github/power-TY/ML_TeamProject/blob/main/EDA2.ipynb
 3. EDA3 : https://nbviewer.org/github/power-TY/ML_TeamProject/blob/main/EDA3.ipynb
 4. EDA4 : https://nbviewer.org/github/power-TY/ML_TeamProject/blob/main/EDA4.ipynb
 5. EDA5 : https://nbviewer.org/github/power-TY/ML_TeamProject/blob/main/EDA5.ipynb
 
-각 샘플링 기법 모두 비교
+##각 샘플링 기법 모두 비교
 1. Data_Imbalancee_Handling_all : https://nbviewer.org/github/power-TY/ML_TeamProject/blob/main/Data_Imbalance_Handling_all.ipynb
 
-각 인코딩 별 모델 비교
-Target Encoding
+##각 인코딩 별 모델 비교
+###Target Encoding
 1. Target_Logistic_XAI : 
 2. Target_SVM : 
 3. Target_SVM_XAI : 
 4. Target_RandomForest_XAI : 
 5. Target_LGBM_XAI : 
 
-Binary Encoding
+###Binary Encoding
 1. Binary_Logistic_XAI : 
 2. Binary_SVM : 
 3. Binary_RandomForest_XAI :
 4. Binary_LGBM_XAI : 
 
-OneHot Encoding
+###OneHot Encoding
 1. OneHot_Logistic_XAI : 
 2. OneHot_SVM : 
 3. OneHot_RandomForest_XAI :
