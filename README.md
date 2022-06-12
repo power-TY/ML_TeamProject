@@ -19,23 +19,26 @@
 
 **각 인코딩 별 모델 비교**\
 **Target Encoding**
-1. Target_Logistic_XAI : 
-2. Target_SVM : 
+1. Target_Logistic_XAI : https://nbviewer.org/github/power-TY/ML_TeamProject/blob/main/TargetEncoding/Target_Logistic_XAI.ipynb
+2. Target_SVM : https://nbviewer.org/github/power-TY/ML_TeamProject/blob/main/TargetEncoding/Target_SVM.ipynb
 3. Target_SVM_XAI : 
 4. Target_RandomForest_XAI : 
-5. Target_LGBM_XAI : 
+5. Target_XGBoost_XAI : https://nbviewer.org/github/power-TY/ML_TeamProject/blob/main/TargetEncoding/Target_XGBoost_XAI.ipynb
+6. Target_LGBM_XAI : https://nbviewer.org/github/power-TY/ML_TeamProject/blob/main/TargetEncoding/Target_LGBM_XAI.ipynb
 
 **Binary Encoding**
-1. Binary_Logistic_XAI : 
-2. Binary_SVM : 
+1. Binary_Logistic_XAI : https://nbviewer.org/github/power-TY/ML_TeamProject/blob/main/BinaryEncoding/Binary_Logistic_XAI.ipynb
+2. Binary_SVM : https://nbviewer.org/github/power-TY/ML_TeamProject/blob/main/BinaryEncoding/Binary_SVM.ipynb
 3. Binary_RandomForest_XAI :
-4. Binary_LGBM_XAI : 
+4. Binary_XGBoost_XAI : 
+5. Binary_LGBM_XAI : https://nbviewer.org/github/power-TY/ML_TeamProject/blob/main/BinaryEncoding/Binary_LGBM_XAI.ipynb
 
 **OneHot Encoding**
-1. OneHot_Logistic_XAI : 
-2. OneHot_SVM : 
+1. OneHot_Logistic_XAI : https://nbviewer.org/github/power-TY/ML_TeamProject/blob/main/OneHotEncoding/OneHot_Logistic_XAI.ipynb
+2. OneHot_SVM : https://nbviewer.org/github/power-TY/ML_TeamProject/blob/main/OneHotEncoding/OneHot_SVM.ipynb
 3. OneHot_RandomForest_XAI :
-4. OneHot_LGBM_XAI : 
+4. OneHot_XGBoost_XAI : 
+5. OneHot_LGBM_XAI : https://nbviewer.org/github/power-TY/ML_TeamProject/blob/main/OneHotEncoding/OneHot_LGBM_XAI.ipynb
 
 
 # 프로젝트 선정 이유
