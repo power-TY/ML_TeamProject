@@ -23,7 +23,7 @@
 **Target Encoding**
 1. Target_Logistic_XAI : https://nbviewer.org/github/power-TY/ML_TeamProject/blob/main/TargetEncoding/Target_Logistic_XAI.ipynb
 2. Target_SVM : https://nbviewer.org/github/power-TY/ML_TeamProject/blob/main/TargetEncoding/Target_SVM.ipynb
-3. Target_SVM_XAI : 
+3. Target_SVM_XAI : https://nbviewer.org/github/power-TY/ML_TeamProject/blob/main/TargetEncoding/Target_SVM_XAI.ipynb
 4. Target_RandomForest_XAI : 
 5. Target_XGBoost_XAI : https://nbviewer.org/github/power-TY/ML_TeamProject/blob/main/TargetEncoding/Target_XGBoost_XAI.ipynb
 6. Target_LGBM_XAI : https://nbviewer.org/github/power-TY/ML_TeamProject/blob/main/TargetEncoding/Target_LGBM_XAI.ipynb
