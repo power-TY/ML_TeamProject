@@ -17,7 +17,7 @@
 **각 샘플링 효과 테스트**
 1. Data_Imbalancee_Handling_all : https://nbviewer.org/github/power-TY/ML_TeamProject/blob/main/Data_Imbalance_Handling_all.ipynb
 
-**각 인코딩 별 모델 비교**
+**각 인코딩 별 모델 비교**\
 **Target Encoding**
 1. Target_Logistic_XAI : 
 2. Target_SVM : 
