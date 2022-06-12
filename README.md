@@ -7,16 +7,36 @@
 보이지 않을 경우 아래 링크들을 참고해 주세요.\
 아래 링크로도 보이지 않을 경우 https://nbviewer.org/ 에 접속하셔셔 각 코드의 링크를 직접 넣어주기길 바랍니다.
 
-
+EDA\
 1. EDA : https://nbviewer.org/github/power-TY/ML_TeamProject/blob/main/EDA.ipynb
-2. Data_Imbalancee_Handling_all : https://nbviewer.org/github/power-TY/ML_TeamProject/blob/main/Data_Imbalance_Handling_all.ipynb
-3. TargetEncoding_sampling_Logistic_XAI : https://nbviewer.org/github/power-TY/ML_TeamProject/blob/main/TargetEncoding_Sampling_Logistic_XAI.ipynb
-4. TargetEncoding_sampling_LGBM_XAI : https://nbviewer.org/github/power-TY/ML_TeamProject/blob/main/TargetEncoding_sampling_LGBM_XAI.ipynb
-5. 
-6. BinaryEncoding_sampling_Logistic_XAI : https://nbviewer.org/github/power-TY/ML_TeamProject/blob/main/BinaryEncoding_sampling_Logistic_XAI.ipynb
-7. BinaryEncoding_sampling_LGBM_XAI : https://nbviewer.org/github/power-TY/ML_TeamProject/blob/main/BinaryEncoding_sampling_LGBM_XAI.ipynb
-8. OneHotEncoding_sampling_Logistic_XAI : https://nbviewer.org/github/power-TY/ML_TeamProject/blob/main/OneHotEncoding_Sampling_Logistic_XAI.ipynb
-9. OneHotEncoding_sampling_LGBM_XAI : https://nbviewer.org/github/power-TY/ML_TeamProject/blob/main/OneHotEncoding_sampling_LGBM_XAI.ipynb
+2. EDA2 : https://nbviewer.org/github/power-TY/ML_TeamProject/blob/main/EDA2.ipynb
+3. EDA3 : https://nbviewer.org/github/power-TY/ML_TeamProject/blob/main/EDA3.ipynb
+4. EDA4 : https://nbviewer.org/github/power-TY/ML_TeamProject/blob/main/EDA4.ipynb
+5. EDA5 : https://nbviewer.org/github/power-TY/ML_TeamProject/blob/main/EDA5.ipynb
+
+각 샘플링 기법 모두 비교\
+1. Data_Imbalancee_Handling_all : https://nbviewer.org/github/power-TY/ML_TeamProject/blob/main/Data_Imbalance_Handling_all.ipynb
+
+각 인코딩 별 모델 비교\
+Target Encoding\
+1. Target_Logistic_XAI : 
+2. Target_SVM : 
+3. Target_SVM_XAI : 
+4. Target_RandomForest_XAI : 
+5. Target_LGBM_XAI : 
+
+Binary Encoding\
+1. Binary_Logistic_XAI : 
+2. Binary_SVM : 
+3. Binary_RandomForest_XAI :
+4. Binary_LGBM_XAI : 
+
+OneHot Encoding\
+1. OneHot_Logistic_XAI : 
+2. OneHot_SVM : 
+3. OneHot_RandomForest_XAI :
+4. OneHot_LGBM_XAI : 
+
 
 # 프로젝트 선정 이유
 ![image](https://user-images.githubusercontent.com/71917549/173069672-41a0a46b-98c6-4396-a8af-1c7585cc9164.png)
