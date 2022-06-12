@@ -10,7 +10,7 @@
 아래 링크로도 보이지 않을 경우 https://nbviewer.org/ 에 접속하셔셔 각 코드의 링크를 직접 넣어주기길 바랍니다.
 
 **EDA**
-1. EDA : https://nbviewer.org/github/power-TY/ML_TeamProject/blob/main/EDA.ipynb
+1. EDA(AutoEDA) : https://nbviewer.org/github/power-TY/ML_TeamProject/blob/main/EDA.ipynb
 2. EDA2 : https://nbviewer.org/github/power-TY/ML_TeamProject/blob/main/EDA2.ipynb
 3. EDA3 : https://nbviewer.org/github/power-TY/ML_TeamProject/blob/main/EDA3.ipynb
 4. EDA4 : https://nbviewer.org/github/power-TY/ML_TeamProject/blob/main/EDA4.ipynb
