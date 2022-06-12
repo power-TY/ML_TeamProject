@@ -1,5 +1,7 @@
 # ML_TeamProject
-심장병 분류(불균형 데이터)\
+**심장병 분류(불균형 데이터)\
+러닝머신 조
+팀원: 김기수, 김효민, 변유진, 이지은, 정태영**
 캐글 데이터 셋 이용 https://www.kaggle.com/code/omarmohamedyehia/heart-disease-prediction
 
 # 코드가 보이지 않을 경우
